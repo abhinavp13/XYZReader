@@ -1,5 +1,5 @@
-Android LoginArt App
-====================
+XYZ Reader App
+==============
 An Android Nanodegree project aiming at using latest material design libraries to materialize the whole app, giving it lollipop material design look.
 
 Screenshots
